@@ -13,6 +13,6 @@ The server control source code is at DxButtonLink/DxButtonLink/ButtonLink.cs and
 
 Example,
 
-   <dxx:ButtonLink runat="server"
+   &lt;dxx:ButtonLink runat="server"
             Text="Derived from DevExpress ASPxButton Class"
             NavigateUrl="http://documentation.devexpress.com/#AspNet/clsDevExpressWebASPxEditorsASPxButtontopic" />
